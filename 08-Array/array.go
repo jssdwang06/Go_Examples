@@ -1,6 +1,8 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 // 在 Go 中，数组 是一个具有编号且长度固定的元素序列。
 func main() {
